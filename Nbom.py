@@ -1,0 +1,2 @@
+import Nbom
+Nbom.loging()

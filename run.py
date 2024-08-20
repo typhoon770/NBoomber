@@ -1,2 +1,2 @@
 import Nbom
-Nbom.loging()
+run.loging()

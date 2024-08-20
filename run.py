@@ -1,2 +1,1 @@
 import Nbom
-run.loging()

